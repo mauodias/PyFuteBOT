@@ -1,0 +1,14 @@
+{
+    "twitter":
+    {
+        "consumer_key": "vW2oG1d8ylNbKnCs1gLTkECcm",
+        "consumer_secret": "vZuOEC07L6DLShLZnxfYr9RyXMRjfRRjvjGnESZMPfqdE0zdm0",
+        "access_token_key": "2799141839-Cj4PnIxnAYG2foxH5gSaIIK56ERXIMetwXOpSXb",
+        "access_token_secret": "uB1ZJMx0b6HtnEqwTCW848eVPqKpc2LyDJEHHpBCXsb4k"
+    },
+    "facebook":
+    {
+        "token": "CAACEdEose0cBAFbpccsrdI5UhQDZBYII0q2Y0ZBZAvTFZA50Xn6033bTKEXjzSB5HGKBNrGT3mq6j7Kiimo6YtILd3WUzTTZBAcsaXFhaSZBEui4Sv07OQZCRuMAjaSM3ZCqraCmq9HzZBLeIwCSBCGxZAD2wRf5itxEQZATi8CC4BNMdZC8HNu5QijhdYI5hrz4Hgw2ZAdEA4ENzZCN5ATp8ZAWfZCaZCs8WIEDhiO0ZD",
+        "group": "884210374923421"
+    }
+}
